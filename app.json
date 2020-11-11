@@ -8,9 +8,9 @@
         "pluggable",
         "userbot"
     ],
-    "repository": "https://github.com/UsergeTeam/Userge",
-    "website": "https://github.com/Userge",
-    "success_url": "https://t.me/theUserge",
+    "repository": "https://github.com/kirodewal/Userge",
+    "website": "https://github.com/kirodewal",
+    "success_url": "https://t.me/kirodewal",
     "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org"},
         "API_HASH": {"description": "Get this value from https://my.telegram.org"},
