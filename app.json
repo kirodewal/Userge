@@ -31,12 +31,7 @@
         "HEROKU_API_KEY": {
             "description": "get a Heroku API key from http://dashboard.heroku.com/account",
             "required": false}
-        "G_DRIVE_CLIENT_ID": {
-            "description": "Googel Drive API Keys from https://console.developers.google.com/",
-            "required": true}
-         "G_DRIVE_CLIENT_SECRET": {
-             "description": "Googel Drive API Keys from https://console.developers.google.com/",
-             "required": true}
+ 
     },
     "addons": [],
     "buildpacks": [
